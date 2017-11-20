@@ -1,0 +1,6 @@
+string city
+string county
+string village
+bool   ishourly
+---
+string txt
