@@ -6,7 +6,7 @@ import requests
 # https://developers.skplanetx.com/develop/
 # 앱 등록 및 키 발급
 appKey = "00000000-0000-0000-0000-000000000000"
-#appKey = "0b3c7d46-d4fb-3545-ac1f-ab3d51e4c07a"
+ 
 
 
 # 현재 날씨(시간별)
